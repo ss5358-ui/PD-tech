@@ -9,9 +9,9 @@ export default defineConfig({
       registerType: 'autoUpdate',
       includeAssets: ['favicon.ico', 'apple-touch-icon.png'],
       manifest: {
-        name: 'Your App Name',
-        short_name: 'App',
-        description: 'My Awesome App',
+        name: 'PD Name',
+        short_name: 'PD App',
+        description: 'PD App',
         theme_color: '#ffffff',
         icons: [
           {
